@@ -1,0 +1,13 @@
+# --- defaults create_release (desactiva con --no-defaults) ---
+build/
+out/
+.gradle/
+.idea/
+*.iml
+__pycache__/
+*.pyc
+*.py[cod]
+*.class
+node_modules/
+.DS_Store
+local.properties
